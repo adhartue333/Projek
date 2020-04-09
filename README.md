@@ -1,2 +1,0 @@
-# Projek
-webgis-laravel
